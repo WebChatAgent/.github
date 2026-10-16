@@ -52,7 +52,7 @@ Paste it before `</body>`. Your chatbot ID is in the dashboard. The [free plan](
 
 - Platform hosted in Germany (Frankfurt)
 - Data processing agreement under Art. 28 GDPR, concluded at sign-up
-- EU-based AI model by default. Providers outside the EU are marked and only used if you pick them.
+- EU-based AI model for chats by default
 - Your content is not used to train AI models through WebChatAgent
 - Chats are deleted automatically after a retention period you set
 - [Guide](https://docs.webchatagent.com/integrations/cookie-consent) for cookie consent tools
