@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>AI chatbot and phone assistant for business websites.</b><br>
-  Answers from your own content.
+  Answers from your own content. Servers in Germany, DPA under Art. 28 GDPR.
 </p>
 
 <p align="center">
@@ -50,7 +50,15 @@ Paste it before `</body>`. Your chatbot ID is in the dashboard. The [free plan](
 
 ### Privacy and GDPR
 
-How WebChatAgent handles data and what you still check yourself: [AI chatbot and GDPR](https://webchatagent.com/ai-chatbot-gdpr) and the [privacy policy](https://webchatagent.com/privacy-policy). Using a cookie consent tool? See the [setup guide](https://docs.webchatagent.com/integrations/cookie-consent).
+From the [privacy policy](https://webchatagent.com/privacy-policy):
+
+- Servers and databases in data centers in Germany
+- Data processing agreement under Art. 28 GDPR, accepted at sign-up
+- New chatbots use an AI model hosted in the EU by default
+- AI providers are used via paid business APIs; under their terms, data is not used to train models
+- Conversations are deleted automatically after a retention period you can adjust
+
+The privacy policy lists every service provider involved, including those outside the EU. What you still check yourself: [AI chatbot and GDPR](https://webchatagent.com/ai-chatbot-gdpr). Using a cookie consent tool? See the [setup guide](https://docs.webchatagent.com/integrations/cookie-consent).
 
 ### For agencies
 
