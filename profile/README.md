@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>AI chatbot and phone assistant for business websites.</b><br>
-  Answers from your own content. Platform hosted in Germany.
+  Answers from your own content. GDPR-ready, hosted in Germany.
 </p>
 
 <p align="center">
@@ -19,15 +19,19 @@
 
 ---
 
-Point WebChatAgent at your website, PDFs, Word files, Notion or Confluence. It answers visitor questions from that content and shows the source. When a question needs a person, someone from your team takes over the chat. The same assistant also handles WhatsApp, your support mailbox and phone calls.
+Point WebChatAgent at your website, PDFs, Word files, Notion or Confluence. It answers visitor questions from that content and shows the source. When a question needs a person, someone from your team takes over the chat.
 
-### Plugins
+### Install
 
-- **TYPO3 10.4 to 14:** [WebChatAgent/typo3-webchatagent](https://github.com/WebChatAgent/typo3-webchatagent). One release for five TYPO3 versions, chat button per site, inline chat content element, CSP handled.
-- **WordPress:** [wordpress.org/plugins/webchatagent](https://wordpress.org/plugins/webchatagent/)
-- **Zapier:** [webchatagent.com/integrations/zapier](https://webchatagent.com/integrations/zapier)
-
-### Any other website
+| Platform | How |
+|---|---|
+| **TYPO3** 10.4 to 14 | Extension: [WebChatAgent/typo3-webchatagent](https://github.com/WebChatAgent/typo3-webchatagent) |
+| **WordPress** | Plugin: [wordpress.org/plugins/webchatagent](https://wordpress.org/plugins/webchatagent/) |
+| **Shopify** | Snippet in your theme: [guide](https://docs.webchatagent.com/integrations/shopify) |
+| **Wix** | [Guide](https://docs.webchatagent.com/integrations/wix) |
+| **Squarespace** | [Guide](https://docs.webchatagent.com/integrations/squarespace) |
+| **Webflow** | [Guide](https://docs.webchatagent.com/integrations/webflow) |
+| **Any other website** | Two lines of HTML: |
 
 ```html
 <script src="https://webchatagent.com/widget/web-chat-agent.js" async></script>
@@ -36,8 +40,27 @@ Point WebChatAgent at your website, PDFs, Word files, Notion or Confluence. It a
 
 Paste it before `</body>`. Your chatbot ID is in the dashboard. The [free plan](https://webchatagent.com/register) includes one chatbot.
 
+### One assistant, several channels
+
+- **Website:** floating chat button or chat embedded in a page
+- **WhatsApp Business:** [setup](https://webchatagent.com/integrations/whatsapp)
+- **Email:** answers your support mailbox, as drafts for review or sent directly ([setup](https://webchatagent.com/integrations/email))
+- **Phone:** takes calls, answers questions, books appointments ([AI phone assistant](https://webchatagent.com/ai-phone-assistant))
+- **Zapier:** passes leads and chats on to your other tools ([setup](https://webchatagent.com/integrations/zapier))
+
+### Privacy and GDPR
+
+- Platform hosted in Germany (Frankfurt)
+- Data processing agreement under Art. 28 GDPR, concluded at sign-up
+- EU-based AI model by default. Providers outside the EU are marked and only used if you pick them.
+- Your content is not used to train AI models through WebChatAgent
+- Chats are deleted automatically after a retention period you set
+- [Guide](https://docs.webchatagent.com/integrations/cookie-consent) for cookie consent tools
+
+What this covers and what you still check yourself: [AI chatbot and GDPR](https://webchatagent.com/ai-chatbot-gdpr).
+
 ### For agencies
 
 Sell the chatbot to your clients under your own brand and domain. [White-label plans](https://webchatagent.com/enterprise-white-label) start at €29 a month: self-service, no sales call, no revenue share.
 
-<sub>Questions: support@webchatagent.com</sub>
+<sub>Questions: support@webchatagent.com · Privacy: privacy@webchatagent.com</sub>
