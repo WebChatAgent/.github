@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>AI chatbot and phone assistant for business websites.</b><br>
-  Answers from your own content. GDPR-ready, hosted in Germany.
+  Answers from your own content.
 </p>
 
 <p align="center">
@@ -50,14 +50,7 @@ Paste it before `</body>`. Your chatbot ID is in the dashboard. The [free plan](
 
 ### Privacy and GDPR
 
-- Platform hosted in Germany (Frankfurt)
-- Data processing agreement under Art. 28 GDPR, concluded at sign-up
-- EU-based AI model for chats by default
-- Your content is not used to train AI models through WebChatAgent
-- Chats are deleted automatically after a retention period you set
-- [Guide](https://docs.webchatagent.com/integrations/cookie-consent) for cookie consent tools
-
-What this covers and what you still check yourself: [AI chatbot and GDPR](https://webchatagent.com/ai-chatbot-gdpr).
+How WebChatAgent handles data and what you still check yourself: [AI chatbot and GDPR](https://webchatagent.com/ai-chatbot-gdpr) and the [privacy policy](https://webchatagent.com/privacy-policy). Using a cookie consent tool? See the [setup guide](https://docs.webchatagent.com/integrations/cookie-consent).
 
 ### For agencies
 
