@@ -25,7 +25,7 @@ Point WebChatAgent at your website, PDFs, Word files, Notion or Confluence. It a
 
 | Platform | How |
 |---|---|
-| **TYPO3** 10.4 to 14 | Extension: [WebChatAgent/typo3-webchatagent](https://github.com/WebChatAgent/typo3-webchatagent) |
+| **TYPO3** 10.4 to 14 | [TYPO3 Extension Repository](https://extensions.typo3.org/extension/webchatagent) or `composer require webchatagent/typo3-webchatagent` |
 | **WordPress** | Plugin: [wordpress.org/plugins/webchatagent](https://wordpress.org/plugins/webchatagent/) |
 | **Shopify** | Snippet in your theme: [guide](https://docs.webchatagent.com/integrations/shopify) |
 | **Wix** | [Guide](https://docs.webchatagent.com/integrations/wix) |
